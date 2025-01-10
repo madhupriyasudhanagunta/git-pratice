@@ -1,0 +1,5 @@
+Where to Use Each Version
+Step 2: Use the initial version when creating the file in the main branch.
+Step 4: Use the navigation bar version when modifying the file in the feature-navbar branch.
+Step 5: Use the header version when modifying the file in the main branch.
+Step 7: Use the resolved version when resolving the merge conflict.
